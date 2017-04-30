@@ -1,5 +1,5 @@
 {
-  "name": "IIMN Financial Health Assessment Tool",
+  "name": "iimn-financial-health-assessment-tool",
   "version": "1.0.0",
   "description": "Tool to assist IIMN Financial Coaches during Financial Health consultations",
   "main": "app.js",
@@ -31,5 +31,8 @@
     "mongoose": "^4.9.4",
     "npm": "^4.4.4",
     "ui-router": "^1.0.0-alpha.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
